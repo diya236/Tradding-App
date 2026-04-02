@@ -84,3 +84,121 @@ The application follows a modular structure consisting of:
 
 ## 7. Project Structure
 
+'''my-trading-app-main/
+│
+├── backend/ - Java backend files and logic
+├── frontend/ - HTML, CSS, JavaScript files
+├── images/ - Screenshots of the application
+├── README.md - Project documentation'''
+
+---
+
+## 8. How to Run the Project
+
+### Step 1: Download the Project
+- Clone the repository or download the ZIP file  
+- Extract all files  
+
+### Step 2: Open in IDE
+- Open the project in IntelliJ IDEA, Eclipse, or VS Code  
+
+### Step 3: Run Backend
+- Compile and run the Java files  
+- Start the server if applicable  
+
+### Step 4: Run Frontend
+- Open the `index.html` file in a web browser  
+
+---
+
+## 9. Screenshots
+(Add screenshots of your project here)
+
+---
+
+## 10. Relevance to Advanced Java Syllabus
+
+This project demonstrates the practical implementation of concepts from the Advanced Java syllabus.
+
+### 10.1 Object-Oriented Programming
+- Use of classes and objects  
+- Implementation of encapsulation and inheritance  
+- Use of packages for organizing code  
+
+### 10.2 Exception Handling
+- Use of try, catch, and finally blocks  
+- Handling runtime errors efficiently  
+
+### 10.3 Multithreading (if used)
+- Basic implementation of threads  
+- Handling multiple operations  
+
+### 10.4 Java Swing (GUI Development)
+- Use of components such as buttons, labels, and text fields  
+- Application of layout managers  
+
+### 10.5 Event Handling
+- Event-driven programming approach  
+- Handling user actions such as button clicks  
+
+### 10.6 JDBC (if used)
+- Database connectivity using JDBC  
+- Data storage and retrieval  
+
+### 10.7 Input/Output Handling
+- Reading user input  
+- Displaying output  
+- File handling or serialization (if implemented)  
+
+### 10.8 MVC Design Concept
+- Model: Data handling  
+- View: User interface  
+- Controller: Application logic  
+
+---
+
+## 11. Learning Outcomes
+
+- Understanding of Java programming concepts  
+- Practical experience in application development  
+- Improved problem-solving skills  
+- Experience in teamwork and collaboration  
+- Knowledge of debugging and testing  
+
+---
+
+## 12. Limitations
+
+- No real-time stock market integration  
+- Basic user interface  
+- Limited security features  
+- May not include full database integration  
+
+---
+
+## 13. Future Enhancements
+
+- Integration with real-time stock market APIs  
+- Improved user interface design  
+- Secure authentication system  
+- Database implementation  
+- Mobile application development  
+- Graphical representation of stock data  
+
+---
+
+## 14. Team Contribution
+
+Each team member contributed in different areas such as:
+
+- Backend development  
+- Frontend design  
+- Testing and debugging  
+- Documentation  
+- Presentation  
+
+---
+
+## 15. Conclusion
+
+The Trading Application project demonstrates the implementation of Java programming concepts in a real-world scenario. It provides a basic understanding of trading systems and helps in developing technical and teamwork skills.
