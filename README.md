@@ -13,7 +13,6 @@ Member 4: Daksh Lathiya (24BCE10371)
 
 Member 5: Hardik Bajpai (24BCE10397)
 
-================================================================================================================================================================
 
 2. Project Overview
 
@@ -25,11 +24,16 @@ The project is developed to understand how real-world trading systems function a
 
 The main objectives of this project are:
 
-To understand the working of a trading system
-To apply Object-Oriented Programming concepts in Java
-To develop logical thinking and problem-solving skills
-To gain experience in real-world application development
-To improve teamwork and collaboration
+1.To understand the working of a trading system
+
+2.To apply Object-Oriented Programming concepts in Java
+
+3.To develop logical thinking and problem-solving skills
+
+4.To gain experience in real-world application development
+
+5.To improve teamwork and collaboration
+
 4. Features of the Application
 4.1 User Management
 Basic login and registration functionality (if implemented)
