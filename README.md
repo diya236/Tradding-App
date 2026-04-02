@@ -101,7 +101,9 @@ The application follows a modular structure consisting of:
 ---
 
 ## 9. Screenshots
-(Add screenshots of your project here)
+
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/9745d09f-0e63-4c79-a131-70a3d6d23713" />
+
 
 ---
 
