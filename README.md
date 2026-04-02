@@ -37,22 +37,27 @@ The main objectives of this project are:
 4. Features of the Application
 
 4.1.  User Management
-Basic login and registration functionality (if implemented)
-Secure user access
+a) Basic login and registration functionality (if implemented)
+
+b) Secure user access
 
 4.2.  Trading Operations
-Buying stocks based on available balance
-Selling stocks and updating records
-Displaying stock information
+a) Buying stocks based on available balance
+
+b) Selling stocks and updating records
+
+c) Displaying stock information
 
 4.3.  Portfolio Management
-Viewing current stock holdings
-Tracking available balance
-Monitoring stock quantities
+a) Viewing current stock holdings
+
+b) Tracking available balance
+
+c) Monitoring stock quantities
 
 4.4.  Transaction History
-Recording all buy and sell operations
-Displaying transaction details
+a)Recording all buy and sell operations
+b)Displaying transaction details
 
 4.5.  User Interface
 Simple and user-friendly interface
