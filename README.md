@@ -37,7 +37,9 @@ The main objectives of this project are:
 4. Features of the Application
 
 4.1.  User Management
+
 a) Basic login and registration functionality (if implemented)
+
 
 b) Secure user access
 
