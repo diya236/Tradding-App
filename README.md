@@ -12,6 +12,9 @@ Member 3: Avishi Sharma (24BCE10297)
 Member 4: Daksh Lathiya (24BCE10371)
 
 Member 5: Hardik Bajpai (24BCE10397)
+
+================================================================================================================================================================
+
 2. Project Overview
 
 The Trading Application is a Java-based software system designed to simulate a basic stock trading platform. It allows users to perform operations such as buying and selling stocks, managing their portfolio, and viewing transaction history.
