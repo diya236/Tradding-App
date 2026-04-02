@@ -3,11 +3,11 @@
 ## 1. Team Members
 This project is developed as a group activity by a team of five members:
 
-- Member 1: [Your Name]  
-- Member 2: [Name]  
-- Member 3: [Name]  
-- Member 4: [Name]  
-- Member 5: [Name]  
+- Member 1: Diya Patel (24BCE10007)  
+- Member 2: Shreya Ramesh (24BCE10042)
+- Member 3: Avishi Sharma (24BCE10297)  
+- Member 4: Daksh Lathiya (24BCE10371)  
+- Member 5: Hardik Bajpai (24BCE10397)  
 
 ---
 
@@ -79,17 +79,6 @@ The application follows a modular structure consisting of:
 - Encapsulation  
 - Inheritance  
 - Abstraction  
-
----
-
-## 7. Project Structure
-
-'''my-trading-app-main/
-│
-├── backend/ - Java backend files and logic
-├── frontend/ - HTML, CSS, JavaScript files
-├── images/ - Screenshots of the application
-├── README.md - Project documentation'''
 
 ---
 
