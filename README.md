@@ -24,15 +24,15 @@ The project is developed to understand how real-world trading systems function a
 
 The main objectives of this project are:
 
-1.To understand the working of a trading system
+3.1. To understand the working of a trading system
 
-2.To apply Object-Oriented Programming concepts in Java
+3.2. To apply Object-Oriented Programming concepts in Java
 
-3.To develop logical thinking and problem-solving skills
+3.3. To develop logical thinking and problem-solving skills
 
-4.To gain experience in real-world application development
+3.4. To gain experience in real-world application development
 
-5.To improve teamwork and collaboration
+3.5. To improve teamwork and collaboration
 
 4. Features of the Application
 4.1 User Management
