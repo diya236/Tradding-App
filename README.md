@@ -104,6 +104,12 @@ The application follows a modular structure consisting of:
 
 <img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/9745d09f-0e63-4c79-a131-70a3d6d23713" />
 
+<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/c66957ca-4df6-4b31-b513-3f1e080d7109" />
+
+<img width="1600" height="810" alt="image" src="https://github.com/user-attachments/assets/36688325-bb01-4cdb-acbb-c9f8927212cf" />
+
+<img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/f2386838-1b6d-4a52-8c6b-8ac8c97ea897" />
+
 
 ---
 
