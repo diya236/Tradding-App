@@ -4,9 +4,13 @@ Trading Application (Java Project)
 This project is developed as a group activity by a team of five members:
 
 Member 1: Diya Patel (24BCE10007)
+
 Member 2: Shreya Ramesh (24BCE10042)
+
 Member 3: Avishi Sharma (24BCE10297)
+
 Member 4: Daksh Lathiya (24BCE10371)
+
 Member 5: Hardik Bajpai (24BCE10397)
 2. Project Overview
 
